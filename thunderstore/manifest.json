@@ -1,0 +1,10 @@
+{
+  "name": "Epic_Loot_Luck_Finds",
+  "version_number": "1.5.2",
+  "website_url": "https://github.com/OctoberJemini/EpicLootLuckFinds",
+  "description": "Lucky gear: creatures 1%, bounties 5%, vendor offers 5%. Lucky bounties: 20% chance for triple coins; tokens unchanged. Regional progression and saved offers. Local-host beta.",
+  "dependencies": [
+    "RandyKnapp-EpicLoot-0.15.1",
+    "denikson-BepInExPack_Valheim-5.4.2351"
+  ]
+}

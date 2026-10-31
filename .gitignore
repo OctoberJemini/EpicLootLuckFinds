@@ -1,0 +1,7 @@
+bin/
+obj/
+artifacts/
+*.dll
+*.exe
+*.pdb
+*.zip
